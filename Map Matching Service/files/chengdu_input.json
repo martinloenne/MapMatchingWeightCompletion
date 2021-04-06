@@ -1,0 +1,36 @@
+[{
+    "rawPoints" : [ {
+             "latitude" : 30.62377,
+             "longitude" : 104.02045,
+             "timestamp" : "2020-10-21T11:07:41Z"
+        },
+        {
+             "latitude" : 30.62665,
+             "longitude" : 104.02243,
+             "timestamp" : "2020-10-21T11:08:41Z"
+        },{ 
+            "latitude" : 30.62783,
+            "longitude" : 104.02457,
+            "timestamp" : "2020-10-21T11:09:41Z"
+        },{ 
+            "latitude" : 30.63001,
+            "longitude" : 104.02569,
+            "timestamp" : "2020-10-21T11:10:41Z"
+        },{ 
+            "latitude" : 30.63256,
+            "longitude" : 104.02698,
+            "timestamp" : "2020-10-21T11:11:41Z"
+        },{  
+            "latitude" : 30.63484,
+            "longitude" : 104.02513,
+            "timestamp" : "2020-10-21T11:12:41Z"
+        },{   
+            "latitude" : 30.63575,
+            "longitude" : 104.02238,
+            "timestamp" : "2020-10-21T11:13:41Z"
+        },{   
+            "latitude" : 30.63475,
+            "longitude" : 104.02273,
+            "timestamp" : "2020-10-21T11:14:41Z"
+        }]
+ }]
